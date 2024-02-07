@@ -6,10 +6,12 @@
     border: 1px solid #f7f381;
     box-shadow: 0 0 10px 2px #333333;
     margin: auto;
+    font-family: 'Arial', sans-serif;
   }
   
   .my-list h1 {
     text-align: center;
+    font-family: 'Georgia', serif;
   }
   
   .my-list p {
